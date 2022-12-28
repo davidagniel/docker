@@ -3,11 +3,9 @@ hello every body , this repo is to remember me to create a docker with apache , 
 
 to use the yml file , before you may install docker and docker-compose
 
-the link to use docker with the official repo :
+the link to use docker , use this link to install docker :
 
-
-
-
+https://aymeric-cucherousset.fr/installer-docker-debian-11/
 
 create a directory : testdocker
 create 2 directories in testdocker's direcotry : www and backups
